@@ -1,2 +1,54 @@
-# CodeAlpha_Data_Visualization
-Employee Attrition Data Visualization project developed using Python, Pandas, Matplotlib, and Seaborn as part of the CodeAlpha Data Visualization Internship.
+# Employee Attrition Data Visualization
+
+## Project Overview
+
+This project was developed as part of my **CodeAlpha Data Visualization Internship**.
+
+The goal of this project is to analyze employee attrition using Python and create meaningful visualizations that help understand workforce trends, employee distribution, overtime patterns, and salary insights.
+
+---
+
+## Features
+
+- Data cleaning and preprocessing
+- Employee distribution analysis
+- Department-wise visualization
+- Overtime vs Attrition analysis
+- Monthly income analysis
+- Years at company analysis
+- Correlation heatmap
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+
+## ▶️ How to Run
+
+1. Clone this repository.
+2. Install the required libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+   ```
+3. Open the notebook in Jupyter Notebook or VS Code.
+4. Run all cells.
+## 📈 Results
+
+This project provides insights into employee attrition, department distribution, overtime trends, and salary patterns through interactive and informative visualizations.
+
+## 👨‍💻 Author
+
+**Muhammad Usman Ghani**
+
+BS Data Science Student
+
+CodeAlpha Data Visualization Internship
