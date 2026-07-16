@@ -20,7 +20,7 @@ The goal of this project is to analyze employee attrition using Python and creat
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -30,9 +30,15 @@ The goal of this project is to analyze employee attrition using Python and creat
 - Seaborn
 
 ---
+##  Interactive Dashboard
+
+View the interactive HR Analytics Dashboard here:
+
+🔗 **Dashboard Link:**  
+https://datastudio.google.com/reporting/9817f9ff-f36d-4c38-8a2d-962d30cae7b6
 
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone this repository.
 2. Install the required libraries:
@@ -41,11 +47,11 @@ The goal of this project is to analyze employee attrition using Python and creat
    ```
 3. Open the notebook in Jupyter Notebook or VS Code.
 4. Run all cells.
-## 📈 Results
+##  Results
 
 This project provides insights into employee attrition, department distribution, overtime trends, and salary patterns through interactive and informative visualizations.
 
-## 👨‍💻 Author
+##  Author
 
 **Muhammad Usman Ghani**
 
